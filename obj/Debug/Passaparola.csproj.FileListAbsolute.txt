@@ -1,0 +1,10 @@
+C:\Users\duruf\source\Repos\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\duruf\source\Repos\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\duruf\source\Repos\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.csproj.AssemblyReference.cache
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.pdb
+C:\Users\duruf\source\Repos\Passaparola\obj\Debug\Passaparola.Passaparola.resources
